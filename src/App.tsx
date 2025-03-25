@@ -1,9 +1,10 @@
+import Hero from './features/hero';
 import MainLayout from './layouts/main-layout';
 
 function App() {
   return (
     <MainLayout>
-      <h1>Hello</h1>
+      <Hero />
     </MainLayout>
   );
 }

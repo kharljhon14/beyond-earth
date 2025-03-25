@@ -5,7 +5,7 @@ export default function Header() {
   const [open, setOpen] = useState(false);
 
   return (
-    <header className="bg-white shadow-md p-6 lg:py-2 lg:px-8 md:rounded-2xl md:my-6 lg:flex justify-between">
+    <header className="bg-white shadow-md p-6 lg:py-2 lg:px-8 md:rounded-2xl md:my-6 lg:flex justify-between lg:mb-8">
       <div className="flex justify-between items-center w-full">
         <div>
           <a href="">BeyondEarth</a>
