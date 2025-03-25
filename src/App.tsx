@@ -1,8 +1,10 @@
+import MainLayout from './layouts/main-layout';
+
 function App() {
   return (
-    <main>
-      <h1 className=""> Hello</h1>
-    </main>
+    <MainLayout>
+      <h1>Hello</h1>
+    </MainLayout>
   );
 }
 
