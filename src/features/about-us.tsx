@@ -9,16 +9,18 @@ export default function AboutUs() {
             alt="Rhinos"
           />
         </div>
-        <div className="w-full p-12 text-white flex h-full justify-center flex-col gap-6">
-          <h2 className="text-2xl lg:text-5xl mb-4 font-[lora]">
-            We are a voice for all animals that share our world
-          </h2>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur libero facere nam
-            modi! Consequuntur voluptatum fugit minima porro, natus at.
-          </p>
-          <div>
-            <button>More About Us</button>
+        <div className="w-full ">
+          <div className="p-6 lg:p-12 text-white flex h-full justify-center flex-col gap-6">
+            <h2 className="text-2xl lg:text-5xl mb-4 font-[lora]">
+              We are a voice for all animals that share our world
+            </h2>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur libero facere nam
+              modi! Consequuntur voluptatum fugit minima porro, natus at.
+            </p>
+            <div>
+              <button>More About Us</button>
+            </div>
           </div>
         </div>
       </div>

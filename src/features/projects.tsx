@@ -9,7 +9,7 @@ export default function Projects() {
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt, mollitia.
         </p>
       </div>
-      <div className="flex flex-wrap gap-6 md:flex-row lg:justify-between justify-center">
+      <div className="flex gap-6 flex-col lg:flex-row lg:justify-between justify-center items-center">
         <ProjectCard />
         <ProjectCard />
         <ProjectCard />
