@@ -11,7 +11,7 @@ export default function Hero() {
       </div>
       <div className="text-white p-6 lg:p-18">
         <div className="flex flex-col mb-12 lg:max-w-xl">
-          <h1 className="text-3xl lg:text-7xl mb-4 font-[lora]">Africa's Voice for Wildlife</h1>
+          <h1 className="text-4xl lg:text-7xl mb-4 font-[lora]">Africa's Voice for Wildlife</h1>
           <p className="lg:text-xl font-light">
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolore, voluptatibus aliquam{' '}
           </p>
