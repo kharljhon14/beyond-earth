@@ -2,7 +2,7 @@ import ProjectCard from './project-card';
 
 export default function Projects() {
   return (
-    <section className="my-8 ">
+    <section className="my-8">
       <div className="text-center text-white mb-12">
         <h2 className="text-3xl font-[lora] mb-4">Our Lastest Projects</h2>
         <p className="text-lg text-amber-300">

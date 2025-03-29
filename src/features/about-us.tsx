@@ -1,7 +1,7 @@
 export default function AboutUs() {
   return (
     <section>
-      <div className="bg-[#615f36] w-full lg:h-[34rem] rounded-2xl overflow-hidden flex flex-col lg:flex-row">
+      <div className="bg-[#615f36] w-full lg:h-[34rem] rounded-2xl overflow-hidden flex flex-col lg:flex-row mb-8">
         <div className="lg:rounded-l-2xl overflow-hidden w-full h-full">
           <img
             className="object-cover w-full h-full pointer-events-none"
