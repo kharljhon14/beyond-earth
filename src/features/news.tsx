@@ -102,7 +102,7 @@ export default function News() {
 
       <div className="bg-[#f4ba4e] p-6 lg:p-12 pb-14">
         <div className="border-b pb-3 mb-8">
-          <h2 className="text-2xl mb-4 font-[lora]">
+          <h2 className="text-2xl lg:text-4xl mb-4 font-[lora]">
             Protecting an astounding diversity of species
           </h2>
           <p className="text-md">
